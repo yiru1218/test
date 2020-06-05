@@ -1,5 +1,5 @@
 language: java
-os: iinux
+os: linux
 dist: xenial
 
 jdk:
