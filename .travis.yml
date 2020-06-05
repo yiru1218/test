@@ -1,5 +1,6 @@
 language: java
-os: windows
+os: iinux
+dist: xenial
 
 jdk:
   - openjdk11
