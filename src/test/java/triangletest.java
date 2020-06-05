@@ -1,4 +1,4 @@
-public class triangletest { 
+public class TriangleTest { 
 	
 	@Test
 	public void testCheckTriangle3() {
